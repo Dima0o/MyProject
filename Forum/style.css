@@ -1,0 +1,48 @@
+﻿html{background-color: rgb(251, 251, 251);}
+body{      padding-top: 5%;
+  margin-bottom: 15%;
+  background: linear-gradient(to top, #FBFBFB, #C0C0C0);}
+.new {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  padding: 11px;
+  background: linear-gradient(to top, #8A2929, #000000);
+  text-decoration: none;
+  border: 1px black solid;
+
+}
+form{color: rgb(64, 64, 64);font-size: 23px;}
+.but_new{width: 250px;
+  height: 54px;
+  background: linear-gradient(to top, #FFFCFC, #686868);
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-size: 17px;    cursor: -webkit-grab;margin-top:29px;}
+.new:hover{background: linear-gradient(to top, #1E0909, #A15555);}
+.but_new:hover{background: linear-gradient(to top, #6C6C6C, #FFFFFF);}
+.sorry{margin:0px;font-size:15px;color:red;}
+.name_table{width: 339px;   height: 30px;    text-align: center;     font-size: 17px;}
+.table_p {
+  max-width: 700px;
+  text-align: left;
+  border: 1px black solid;
+  padding: 16px;
+  border-radius: 41px;
+  text-indent: 20px;}
+.table_a {
+  color: rgb(96, 29, 29);
+  font-size: 27px;
+  font-family: fantasy;
+  width: 135px;
+}
+.table_p2 {
+  font-size: 17px;
+  font-weight: 100;
+  margin-top: 1px;  background-color: white;
+}
+.table_a2 {
+  color: rgb(76, 76, 76);
+  font-size: 27px;
+  margin: 0px;
+  margin-bottom: 11px;  background-color: white;
+}
